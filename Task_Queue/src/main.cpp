@@ -7,7 +7,7 @@ int main() {
     que.push(3);
     
     std::cout << "Front element: " << que.front() << std::endl;
-    std::cout << "Size: " << que._size() << std::endl;
+    std::cout << "Que's size: " << que._size() << std::endl;
     
     que.pop();
     
