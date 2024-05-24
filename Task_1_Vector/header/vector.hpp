@@ -3,7 +3,6 @@
 #include <iostream>
 #include <initializer_list>
 //#include "vector.h"
-
 template <typename T, typename Allocator = std::allocator<T> >
 void
 Vector<T, Allocator>::recap(size_type newSize) {
