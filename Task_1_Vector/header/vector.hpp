@@ -2,8 +2,8 @@
 #ifndef __VECTOR_TPP__
 #define __VECTOR_TPP__
 
-#include <iostream>
-#include <initializer_list>
+//#include <iostream>
+//#include <initializer_list>
 //#include "vector.h"
 
 template <typename T, typename Allocator>
